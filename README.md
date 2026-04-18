@@ -59,7 +59,7 @@ Claude: [Fetches 1Y daily + 2Y weekly data, computes all indicators, maps levels
 
 ## Requirements
 
-- **Finskills API Key**: [Get one](https://finskills.net/register) — **Pro plan required** for historical OHLCV data
+- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **Pro plan required** for historical OHLCV data
 - **Claude** with skill support
 
 ## License

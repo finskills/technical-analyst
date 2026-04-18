@@ -11,7 +11,8 @@ bias with support/resistance levels.
 ## Setup
 
 **API Key required** — Pro plan for historical OHLCV data.  
-Header: `X-API-Key: <key>`
+Header: `X-API-Key: <your_api_key>`
+> **Get your API key**: Register at **https://finskills.net** — free tier available, Pro plan unlocks real-time quotes, history, and financials.
 
 ---
 
