@@ -1,3 +1,16 @@
+---
+name: Technical Analyst
+version: 1.0.0
+description: "Perform comprehensive technical analysis using 12+ indicators including RSI, MACD, Bollinger Bands, support/resistance, and chart patterns via the Finskills API."
+author: finskills
+homepage: https://github.com/finskills/technical-analyst
+credentials:
+  - name: FINSKILLS_API_KEY
+    description: "Finskills API key — register for free at https://finskills.net (Pro plan required for historical OHLCV data)"
+    required: true
+    link: https://finskills.net
+---
+
 # Technical Analyst
 
 Perform comprehensive technical analysis on any US-listed stock using historical
@@ -10,7 +23,7 @@ bias with support/resistance levels.
 
 ## Setup
 
-**API Key required** — Pro plan for historical OHLCV data.  
+**API Key required** — [Register at https://finskills.net](https://finskills.net) to get your free key.  
 Header: `X-API-Key: <your_api_key>`
 > **Get your API key**: Register at **https://finskills.net** — free tier available, Pro plan unlocks real-time quotes, history, and financials.
 

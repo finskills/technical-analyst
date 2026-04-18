@@ -21,7 +21,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill technical-analyst
+npx skills add https://github.com/finskills/technical-analyst --skill technical-analyst
 ```
 
 ## Quick Start
@@ -59,7 +59,7 @@ Claude: [Fetches 1Y daily + 2Y weekly data, computes all indicators, maps levels
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **Pro plan required** for historical OHLCV data
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — **Pro plan required** for historical OHLCV data
 - **Claude** with skill support
 
 ## License
