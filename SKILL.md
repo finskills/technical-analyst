@@ -1,5 +1,5 @@
 ---
-name: Technical Analyst
+name: technical-analyst
 version: 1.0.2
 description: "Perform comprehensive technical analysis using 12+ indicators including RSI, MACD, Bollinger Bands, support/resistance, and chart patterns via the Finskills API."
 author: finskills
